@@ -24,4 +24,5 @@ npm run lint
 
 ### Customize configuration
 (How to add an external link or url, use square brackets. and the link itself is enclosed in parentheses)
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
