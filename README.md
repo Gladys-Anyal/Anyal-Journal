@@ -1,4 +1,4 @@
-# max-journal (Heading one)
+# Anyal-journal (Heading one)
 
 ## Project setup (Heading two)
 
